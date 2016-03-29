@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="todoTxtBackend-android-endpoints">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/todoTxtBackend/build/libs/todoTxtBackend-android-endpoints.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

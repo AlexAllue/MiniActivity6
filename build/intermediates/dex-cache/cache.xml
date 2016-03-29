@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\exploded-aar\endpoints-codelab-android-master\chuckbjonesSwipeToDismissUndoListec6bf93\unspecified\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="a43cf9e271b5bc564e880a0a4be63ab9c69c97f8">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-0c9c4214e0fdfea3897bd84b08b45ce67c946b5b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1-d477e4d1a1d59ff7504aeca64760db1cb8de9518.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\exploded-aar\endpoints-codelab-android-master\chuckbjonesSwipeToDismissUndoListec6bf93\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dc809bfb4d83e6947c4cbd422ad5ce7ebb824261">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes-ea3b6955cc3cb48fd1057223c000e42e868de4c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\exploded-aar\endpoints-codelab-android-master\actionBarPullToRefresh\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="95bbcf7b1a3d23a215e9a2ec953b0a87b948ea1d">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes-e56fba9b2633e33d18976d64af81f6fa1732a4d3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\libs\signpost-commonshttp4-1.2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="576194c2d9ecf9382ed5ab913de8b36640507847">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\signpost-commonshttp4-1.2.1.1-e013de0e889ce6dcf6bad3b94c89e778accc647c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.19.0\ba2aafb867f6af469f936ae76426cf0a280094bd\google-api-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ba2aafb867f6af469f936ae76426cf0a280094bd">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-api-client-android-1.19.0-9c3f9c67305f0968529d16809eaad3ec8b1c5238.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.19.0\d473a8962e14a707a3716637e4898bb2dd9643f2\google-oauth-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d473a8962e14a707a3716637e4898bb2dd9643f2">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-oauth-client-1.19.0-a569c9723210a712c729068226606823c837b815.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\libs\libphonenumber-4.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="c6ce838a73af4b45b225a22135b7580e2b0313af">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\libphonenumber-4.1-9d4bbcb711b963b981798d73ab4d6bc712d521c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.19.0\cdca49ad0977c040f603478aa2e16b2775c8fec6\google-http-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="cdca49ad0977c040f603478aa2e16b2775c8fec6">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-http-client-1.19.0-e6b3e979104179d2a402034b8603d8b5effbf52a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\exploded-aar\com.actionbarsherlock\actionbarsherlock\4.4.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes-fc0082d11d0ad62a982912b626db897566b717d0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtBackend\build\libs\todoTxtBackend-android-endpoints.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e0311678e8bc33be841abfb3b52deb7c0f7ffb68">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\todoTxtBackend-android-endpoints-a749f9bd6b6a83e443f6a6fa253baf0f7ca7c9e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.19.0\e3f11020c2c812112803d252d1392872d3f619c8\google-http-client-android-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e3f11020c2c812112803d252d1392872d3f619c8">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-http-client-android-1.19.0-da4a12968dc935e075563821717e9e149ef121a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes-343190d544a2d5106e4ff5371451a7c51ec95d98.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.19.0\6a21277d9bebe267b7ddee028b241eebc756c040\google-api-client-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="6a21277d9bebe267b7ddee028b241eebc756c040">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-api-client-1.19.0-26950ca79430a5d1bb929394d36663605f184acf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\libs\apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="12e7270b1819bae792c9a9e5e8076ebbcdaaac4b">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\apache-mime4j-0.6-b0e6784ca99dc856faab2b9b0c261242616082b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\jsr305-1.3.9-cbeb952972c42d043b8fc744caaba4425391a862.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.19.0\81dbf9795d387d5e80e55346582d5f2fb81a42eb\google-http-client-jackson2-1.19.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81dbf9795d387d5e80e55346582d5f2fb81a42eb">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\google-http-client-jackson2-1.19.0-f4d9dafb0eb025f3611a4f30019f1152facf3390.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\libs\json_simple-1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\json_simple-1.1-9d2069f0bc0c0866581c4e3173e4e9851385d07a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.1.3\f6c3aed1cdfa21b5c1737c915186ea93a95a58bd\jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\jackson-core-2.1.3-78676f4ef7f2f63329559770086351bf293eff20.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\libs\signpost-core-1.2.1.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1b39a438178bc885d724458de64cee33f1932a6">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\signpost-core-1.2.1.1-7d522347fbb484d0e8c5c6d74bf2d34a0bba6d8f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1-069a2b78ed10677950043eeb24476a31515b4ace.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\13.0\381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7\guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\guava-jdk5-13.0-01a14683babf65e5da8eb324cafa34d005bac561.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\exploded-aar\endpoints-codelab-android-master\actionBarPullToRefreshextras\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0486eb401941542fe44a1780206eb7c2a9bdad0b">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\classes-7e4d8d5cf67cc8de7e280fbf67520c403b218953.jar" />
+    </item>
+    <item
+        jar="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\libs\httpmime-4.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd1973851926925e02d0bbdf4ec0f7435d8292ce">
+        <dex dex="C:\Users\Allu\Desktop\endpoints-codelab-android-master\todoTxtTouch\build\intermediates\pre-dexed\debug\httpmime-4.0.3-b654442a2fa6867c31428c090c0c40e6eb633686.jar" />
+    </item>
+
+</items>
